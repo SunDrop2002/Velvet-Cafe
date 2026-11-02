@@ -1,0 +1,48 @@
+{
+  "original_sha256": "84da74fa22ef1ab57e5751dc0ed7647048efd133a211f3a6260a9bbd154ebefa",
+  "original_unchanged": true,
+  "size": [
+    96,
+    96
+  ],
+  "sheet_size": [
+    384,
+    96
+  ],
+  "frames": 4,
+  "durations_ms": [
+    240,
+    240,
+    240,
+    240
+  ],
+  "loop_ms": 960,
+  "head_motion_y": [
+    0,
+    0,
+    -1,
+    0
+  ],
+  "head_scaling": false,
+  "lower_body_from_row_63_identical": true,
+  "binary_alpha": true,
+  "base_edits_bounded_to_left_arm": [
+    56,
+    32,
+    68,
+    63
+  ],
+  "changed_pixels_vs_new_base": [
+    0,
+    544,
+    993,
+    544
+  ],
+  "transition_pixels": [
+    544,
+    449,
+    449,
+    544
+  ],
+  "engine_playback_verified": false
+}

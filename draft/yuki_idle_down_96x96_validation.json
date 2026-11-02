@@ -1,0 +1,43 @@
+[
+  {
+    "frame": 1,
+    "changed_pixels_vs_approved": 0,
+    "alpha_identical": true,
+    "head_face_collar_identical": true,
+    "waist_hands_feet_identical": true
+  },
+  {
+    "frame": 2,
+    "changed_pixels_vs_approved": 28,
+    "alpha_identical": true,
+    "head_face_collar_identical": true,
+    "waist_hands_feet_identical": true
+  },
+  {
+    "frame": 3,
+    "changed_pixels_vs_approved": 37,
+    "alpha_identical": true,
+    "head_face_collar_identical": true,
+    "waist_hands_feet_identical": true
+  },
+  {
+    "frame": 4,
+    "changed_pixels_vs_approved": 9,
+    "alpha_identical": true,
+    "head_face_collar_identical": true,
+    "waist_hands_feet_identical": true
+  },
+  {
+    "loop_transition_changed_pixels": 9,
+    "sheet_size": [
+      384,
+      96
+    ],
+    "cell_size": [
+      96,
+      96
+    ],
+    "fps": 4,
+    "base_file_unchanged": true
+  }
+]

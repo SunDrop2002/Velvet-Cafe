@@ -1,0 +1,41 @@
+[gd_resource type="SpriteFrames" load_steps=8 format=3]
+
+[ext_resource type="Texture2D" path="res://draft/yuki_walk_right_96x96_sheet_v3.png" id="1"]
+
+[sub_resource type="AtlasTexture" id="Frame0"]
+atlas = ExtResource("1")
+region = Rect2(0, 0, 96, 96)
+
+[sub_resource type="AtlasTexture" id="Frame1"]
+atlas = ExtResource("1")
+region = Rect2(96, 0, 96, 96)
+
+[sub_resource type="AtlasTexture" id="Frame2"]
+atlas = ExtResource("1")
+region = Rect2(192, 0, 96, 96)
+
+[sub_resource type="AtlasTexture" id="Frame3"]
+atlas = ExtResource("1")
+region = Rect2(288, 0, 96, 96)
+
+[sub_resource type="AtlasTexture" id="Frame4"]
+atlas = ExtResource("1")
+region = Rect2(384, 0, 96, 96)
+
+[sub_resource type="AtlasTexture" id="Frame5"]
+atlas = ExtResource("1")
+region = Rect2(480, 0, 96, 96)
+
+[resource]
+animations = [{
+"frames": [{"duration": 1.0, "texture": SubResource("Frame0")},
+{"duration": 1.0, "texture": SubResource("Frame1")},
+{"duration": 1.0, "texture": SubResource("Frame2")},
+{"duration": 1.0, "texture": SubResource("Frame3")},
+{"duration": 1.0, "texture": SubResource("Frame4")},
+{"duration": 1.0, "texture": SubResource("Frame5")}],
+"loop": true,
+"name": &"walk_right",
+"speed": 8.0
+}]
+

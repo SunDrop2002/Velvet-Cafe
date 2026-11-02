@@ -1,0 +1,5 @@
+Godot Engine v4.7.2.stable.steam.ed1daf0bf - https://godotengine.org
+
+PASS: six 96x96 frames; equal timing at 8 FPS; 0.75-second loop; 3 live AnimatedSprite2D loops
+Observed frame sequence: [1, 2, 3, 4, 5, 0, 1, 2, 3, 4, 5, 0, 1, 2, 3, 4, 5, 0, 1]
+Observed frame intervals (s): [0.125, 0.124, 0.124, 0.124, 0.125, 0.124, 0.124, 0.124, 0.124, 0.124, 0.125, 0.124, 0.124, 0.131, 0.124, 0.125, 0.124, 0.124]

@@ -1,0 +1,22 @@
+{
+  "model_changed_pixels": 4,
+  "model_changes_outside_chin": 0,
+  "non_source_colors": 0,
+  "non_binary_alpha": 0,
+  "registered_head_mismatches": 12,
+  "floor_rows": [
+    90,
+    90,
+    90,
+    90,
+    90,
+    90
+  ],
+  "godot_live_loops_passed": 3,
+  "frame_size": [
+    96,
+    96
+  ],
+  "fps": 8,
+  "visual_approval": "pending"
+}

@@ -1,0 +1,173 @@
+﻿[gd_resource type="SpriteFrames" format=3 ]
+
+[ext_resource type="Texture2D"  path="res://draft/yuki_resolution_prototypes/yuki_idle_down_32x32_sheet.png" id="1_wpf52"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_00"]
+atlas = ExtResource("1_wpf52")
+region = Rect2(0, 0, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_01"]
+atlas = ExtResource("1_wpf52")
+region = Rect2(32, 0, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_02"]
+atlas = ExtResource("1_wpf52")
+region = Rect2(64, 0, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_03"]
+atlas = ExtResource("1_wpf52")
+region = Rect2(96, 0, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_04"]
+atlas = ExtResource("1_wpf52")
+region = Rect2(128, 0, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_05"]
+atlas = ExtResource("1_wpf52")
+region = Rect2(160, 0, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_06"]
+atlas = ExtResource("1_wpf52")
+region = Rect2(192, 0, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_07"]
+atlas = ExtResource("1_wpf52")
+region = Rect2(224, 0, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_08"]
+atlas = ExtResource("1_wpf52")
+region = Rect2(256, 0, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_09"]
+atlas = ExtResource("1_wpf52")
+region = Rect2(288, 0, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_10"]
+atlas = ExtResource("1_wpf52")
+region = Rect2(320, 0, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_11"]
+atlas = ExtResource("1_wpf52")
+region = Rect2(352, 0, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_12"]
+atlas = ExtResource("1_wpf52")
+region = Rect2(384, 0, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_13"]
+atlas = ExtResource("1_wpf52")
+region = Rect2(416, 0, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_14"]
+atlas = ExtResource("1_wpf52")
+region = Rect2(448, 0, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_15"]
+atlas = ExtResource("1_wpf52")
+region = Rect2(480, 0, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_16"]
+atlas = ExtResource("1_wpf52")
+region = Rect2(512, 0, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_17"]
+atlas = ExtResource("1_wpf52")
+region = Rect2(544, 0, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_18"]
+atlas = ExtResource("1_wpf52")
+region = Rect2(576, 0, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_19"]
+atlas = ExtResource("1_wpf52")
+region = Rect2(608, 0, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_20"]
+atlas = ExtResource("1_wpf52")
+region = Rect2(640, 0, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_21"]
+atlas = ExtResource("1_wpf52")
+region = Rect2(672, 0, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_22"]
+atlas = ExtResource("1_wpf52")
+region = Rect2(704, 0, 32, 32)
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 6.0,
+"texture": SubResource("AtlasTexture_00")
+}, {
+"duration": 6.0,
+"texture": SubResource("AtlasTexture_01")
+}, {
+"duration": 6.0,
+"texture": SubResource("AtlasTexture_02")
+}, {
+"duration": 6.0,
+"texture": SubResource("AtlasTexture_03")
+}, {
+"duration": 6.0,
+"texture": SubResource("AtlasTexture_04")
+}, {
+"duration": 6.0,
+"texture": SubResource("AtlasTexture_05")
+}, {
+"duration": 6.0,
+"texture": SubResource("AtlasTexture_06")
+}, {
+"duration": 6.0,
+"texture": SubResource("AtlasTexture_07")
+}, {
+"duration": 6.0,
+"texture": SubResource("AtlasTexture_08")
+}, {
+"duration": 6.0,
+"texture": SubResource("AtlasTexture_09")
+}, {
+"duration": 6.0,
+"texture": SubResource("AtlasTexture_10")
+}, {
+"duration": 6.0,
+"texture": SubResource("AtlasTexture_11")
+}, {
+"duration": 6.0,
+"texture": SubResource("AtlasTexture_12")
+}, {
+"duration": 6.0,
+"texture": SubResource("AtlasTexture_13")
+}, {
+"duration": 6.0,
+"texture": SubResource("AtlasTexture_14")
+}, {
+"duration": 6.0,
+"texture": SubResource("AtlasTexture_15")
+}, {
+"duration": 6.0,
+"texture": SubResource("AtlasTexture_16")
+}, {
+"duration": 1.5,
+"texture": SubResource("AtlasTexture_17")
+}, {
+"duration": 4.0,
+"texture": SubResource("AtlasTexture_18")
+}, {
+"duration": 5.0,
+"texture": SubResource("AtlasTexture_19")
+}, {
+"duration": 4.0,
+"texture": SubResource("AtlasTexture_20")
+}, {
+"duration": 6.0,
+"texture": SubResource("AtlasTexture_21")
+}, {
+"duration": 6.0,
+"texture": SubResource("AtlasTexture_22")
+}],
+"loop": 1,
+"name": &"idle_down",
+"speed": 25.0
+}]
+
